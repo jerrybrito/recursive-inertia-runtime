@@ -1,0 +1,2 @@
+# Requires: unlikely-stillness
+# (Not available on PyPI)
